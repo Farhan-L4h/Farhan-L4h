@@ -56,7 +56,7 @@ Stack: **Laravel 10, Blade, Bootstrap, JS/jQuery, SCSS**.
 - **Frontend Retail WMS** — UI untuk Warehouse Management System.  
   🔗 Repo: <a href="https://github.com/Farhan-L4h/FrontEnd-Retail-WMS">Farhan-L4h/FrontEnd-Retail-WMS</a>
 
-> Psst: pin project di atas biar muncul di profil GitHub kamu (Settings → Profile → Customize your pins).
+
 
 <!-- SECTION: STATS -->
 ### 📊 GitHub Stats
