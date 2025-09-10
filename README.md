@@ -72,7 +72,7 @@ Stack: **Laravel 10, Blade, Bootstrap, JS/jQuery, SCSS**.
 
 <!-- SECTION: CONTACT -->
 ### 📫 Contact
-- Portfolio: **https://farhan-lah.vercel.app/**
+- Portfolio: **https://farhanlah.vercel.app/**
 - Email: **muhanmedan06@gmail.com**
 <!-- Kamu bisa nambah Telegram/LinkedIn kalau ada -->
 
