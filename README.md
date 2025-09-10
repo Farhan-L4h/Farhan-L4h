@@ -63,10 +63,10 @@ Stack: **Laravel 10, Blade, Bootstrap, JS/jQuery, SCSS**.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Farhan-L4h&show_icons=true" alt="stats" />
 </p>
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan-L4h&layout=compact" alt="top langs" />
 </p>
-<p>
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Farhan-L4h" alt="streak" />
 </p>
 
