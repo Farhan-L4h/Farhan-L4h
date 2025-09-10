@@ -60,7 +60,7 @@ Stack: **Laravel 10, Blade, Bootstrap, JS/jQuery, SCSS**.
 
 <!-- SECTION: STATS -->
 ### 📊 GitHub Stats
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Farhan-L4h&show_icons=true" alt="stats" />
 </p>
 <p>
@@ -72,7 +72,7 @@ Stack: **Laravel 10, Blade, Bootstrap, JS/jQuery, SCSS**.
 
 <!-- SECTION: CONTACT -->
 ### 📫 Contact
-- Portfolio: **https://farhanl4h.vercel.app**
+- Portfolio: **https://farhan-lah.vercel.app/**
 - Email: **muhanmedan06@gmail.com**
 <!-- Kamu bisa nambah Telegram/LinkedIn kalau ada -->
 
