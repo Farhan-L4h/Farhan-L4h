@@ -11,7 +11,7 @@ Di bawah ada komentar SECTION biar gampang navigasi & edit.
 </p>
 
 <p align="center">
-  <a href="https://farhanlah.vercel.app/">🌐 Portfolio</a> •
+  <a href="https://farhanlah-dev.vercel.app/">🌐 Portfolio</a> •
   <a href="mailto:muhanmedan06@gmail.com">✉️ Email</a> •
   <a href="https://github.com/Farhan-L4h">🐙 GitHub</a>
 </p>
